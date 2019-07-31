@@ -14,3 +14,7 @@ Use androidx.* artefacts [False]: True
 #2
 Changed ANdroid Studio Gradle Service directory [C:\AndroidSDK\.gradle]: %USERPROFILE%\.gradle (resolve 
 environment variable first as env are not resolved automatically by AS)
+
+#3 [Branch] Open&Import
+
+Opened Project. No changes in repository.
