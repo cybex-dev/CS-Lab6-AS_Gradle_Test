@@ -1,0 +1,13 @@
+Project Details:
+===============
+
+Gradle-Wrapper: 5.1.1
+Gradle Plugin: 3.4.1 
+
+Initial Setup 
+------------
+// Syntax: Key [Default]: New Value
+Language [Kotlin]: Java
+Min API Level [27 - Oreo]: 28 Pie 
+Use androidx.* artefacts [False]: True
+
