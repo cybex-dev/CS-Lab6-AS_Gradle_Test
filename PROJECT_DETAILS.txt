@@ -27,3 +27,9 @@ environment variable first as env are not resolved automatically by AS)
 
 	#3
 	Opened Project in AS
+
+	#4 [Branch] Open&RebuildGradle
+	
+		#1
+		Open project in AS
+		Rebuild Gradle
