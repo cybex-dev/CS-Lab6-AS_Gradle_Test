@@ -34,3 +34,13 @@ environment variable first as env are not resolved automatically by AS)
 		Open project in AS
 		Rebuild Gradle - Automatically resolved. This is problematic
 		Created new project in subfolder "new_project"
+		
+		#2
+		Change Gradle Versions with Project closed [Gralde Wrapper 4.10.2 already exists & Gradle Plugin 3.2.1 already exists in Gradle Service Directory [%USERPROFILE%\.gradle]
+		
+		#3
+		Opening new_project in AS
+		Calling "Make Project" IDE task
+		
+		
+		
