@@ -27,3 +27,21 @@ environment variable first as env are not resolved automatically by AS)
 
 	#3
 	Opened Project in AS
+	
+	#4
+	Imported test project into AS
+	- Gradle Log reports:
+		Downloading Gradle-Wrapper 4.10.2-all.zip to Gradle Service Directory [%USERPROFILE%\.gradle\wrapper\dists]
+		Configuring Build
+		Downloading AndroidX.* artefacts
+		Upgrade Succsss
+	Gradle BUild Successful
+	
+	Running Emulator Nexus 5X API 28
+		Error with exitcode - Emulator: Process finished with exit code -1073741819 (0xC0000005)
+		
+	Solution: https://stackoverflow.com/a/47638955
+		Possibly related to DIsplay driver issue
+	
+	AVD Emulated Performance Graphics [Automatic]: Software - GLES 2.0
+		Using Softare GLES 2 instead of Hardware (or Automatic)
