@@ -17,4 +17,11 @@ environment variable first as env are not resolved automatically by AS)
 
 #3 [Branch] Open&Import
 
-Opened Project. No changes in repository.
+	#1
+	Opened Project. No changes in repository.
+
+	#2
+	Closed Project
+	Modified Gradle Wrapper Version [5.1.1]: 4.10.2
+	Modified Gradle Plugin [3.4.1]: 3.2.1
+
