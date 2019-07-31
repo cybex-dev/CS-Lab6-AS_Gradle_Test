@@ -32,4 +32,5 @@ environment variable first as env are not resolved automatically by AS)
 	
 		#1
 		Open project in AS
-		Rebuild Gradle
+		Rebuild Gradle - Automatically resolved. This is problematic
+		Created new project in subfolder "new_project"
